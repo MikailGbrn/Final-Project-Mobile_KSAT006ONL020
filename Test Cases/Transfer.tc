@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16c81d43-c127-4953-85ed-df2f5b620e97</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc04e488-22ae-408e-922b-70034e1b2418</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'100000'</defaultValue>
+      <description></description>
+      <id>dc04e488-22ae-408e-922b-70034e1b2418</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+</TestCaseEntity>
