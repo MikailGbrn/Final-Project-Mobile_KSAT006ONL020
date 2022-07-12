@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a73aebda-dbe4-4bd7-8e09-3673baf143ec</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d3b39d16-4fdf-4924-9f8f-52b9b02d5ab7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d3b39d16-4fdf-4924-9f8f-52b9b02d5ab7</id>
+      <masked>false</masked>
+      <name>Payee</name>
+   </variable>
+</TestCaseEntity>
